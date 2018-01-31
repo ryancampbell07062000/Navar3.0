@@ -1,0 +1,65 @@
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final_Project.frmDun1.resources
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\jr138082\Documents\Visual Basic\Final Project\Final Project\obj\Debug\Final_Project.Dungeon_Up.resources
+C:\Users\jr138082\Desktop\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final Project.xml
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\jr138082\Desktop\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\jr138082\Desktop\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\jr138082\Desktop\Final Project\Final Project\bin\Debug\Final Project.xml
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Dungeon_Up.resources
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Dungeon_1.resources
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Final_Boss.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\bin\Debug\Final Project.exe.config
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final Project.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final Project.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final Project.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\bin\Debug\Final Project.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\bin\Debug\Final Project.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\bin\Debug\Final Project.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final_Project.Dungeon_Up.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final_Project.Final_Boss.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final_Project.Dungeon_1.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Tutorial.resources
+C:\Users\jr138082\Desktop\Final Project\Final Project\obj\Debug\Final_Project.MenuZel.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\bin\Debug\Final Project.exe.config
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final Project.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final Project.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final Project.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\bin\Debug\Final Project.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\bin\Debug\Final Project.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\bin\Debug\Final Project.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final_Project.Dungeon_Up.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final_Project.Final_Boss.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final_Project.Dungeon_1.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final_Project.MenuZel.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final_Project.Resources.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final_Project.Tutorial.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\Final Project Recent\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe.config
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.pdb
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.xml
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Dungeon_Up.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Final_Boss.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Dungeon_1.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.MenuZel.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Resources.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Tutorial.resources
+Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
