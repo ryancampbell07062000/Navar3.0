@@ -1,4 +1,5 @@
 ﻿Public Class Dungeon_1
+  
     Dim Mon10kill As Integer = 0
     Dim Mon2kill As Integer = 0
     Dim Mon3kill As Integer = 0
@@ -302,6 +303,8 @@
     End Function
     Private Sub Dungeon_1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         pbHealth.Value = PlayerStats.numHealth
+        Timer7.Interval = 500
+        Timer7.Enabled = True
     End Sub
     Private Function testcollision(pictureBox As PictureBox, dungeon_Up As Dungeon_Up) As Boolean
         Throw New NotImplementedException
@@ -475,10 +478,10 @@
         ElseIf picMonster2.Location.X < 918 Then
             picMonster2.Left += 500
         End If
-        If picHitBox6.Location.X > 335 Then
-            picHitBox6.Left -= 50
-        ElseIf picHitBox6.Location.X < 918 Then
-            picHitBox6.Left += 500
+        If picHitbox6.Location.X > 335 Then
+            picHitbox6.Left -= 50
+        ElseIf picHitbox6.Location.X < 918 Then
+            picHitbox6.Left += 500
         End If
     End Sub
     Private Sub Timer5_Tick(sender As Object, e As EventArgs) Handles Timer5.Tick
@@ -504,5 +507,28 @@
     End Sub
     Private Sub picMonster4_Click(sender As Object, e As EventArgs) Handles picMonster4.Click
         Mon4kill = 1
+    End Sub
+
+    Private Sub PictureBox4_Click(sender As Object, e As EventArgs) Handles PicHelpMe.Click
+
+    End Sub
+
+    Private Sub Timer7_Tick(sender As Object, e As EventArgs) Handles Timer7.Tick
+        Static s1 As Boolean
+        Static i As Long
+        i = i + 1
+        If i < 120 Then
+            s1 = Not s1
+            If s1 Then
+                PicHelpMe.BackColor = Color.Black
+                PicHelpMe.ForeColor = Color.Coral
+            Else
+                PicHelpMe.BackColor = Color.White
+                PicHelpMe.ForeColor = Color.Beige
+            End If
+        Else
+            Timer7.Enabled = False
+            i = 0
+        End If
     End Sub
 End Class

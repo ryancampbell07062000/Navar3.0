@@ -44,8 +44,7 @@ Partial Class Dungeon_1
         Me.playerRight = New System.Windows.Forms.PictureBox()
         Me.playerLeft = New System.Windows.Forms.PictureBox()
         Me.playerDown = New System.Windows.Forms.PictureBox()
-        Me.PictureBox4 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
+        Me.PicHelpMe = New System.Windows.Forms.PictureBox()
         Me.obsticle17 = New System.Windows.Forms.PictureBox()
         Me.obsticle16 = New System.Windows.Forms.PictureBox()
         Me.obsticle18 = New System.Windows.Forms.PictureBox()
@@ -70,6 +69,7 @@ Partial Class Dungeon_1
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.BackGround = New System.Windows.Forms.PictureBox()
         Me.obsKey = New System.Windows.Forms.PictureBox()
+        Me.Timer7 = New System.Windows.Forms.Timer(Me.components)
         CType(Me.picMonster4, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.picHitbox7, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.picMonster2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -82,8 +82,7 @@ Partial Class Dungeon_1
         CType(Me.playerRight, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.playerLeft, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.playerDown, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PicHelpMe, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.obsticle17, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.obsticle16, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.obsticle18, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -157,7 +156,7 @@ Partial Class Dungeon_1
         '
         Me.picMonster4.Cursor = System.Windows.Forms.Cursors.Cross
         Me.picMonster4.Image = CType(resources.GetObject("picMonster4.Image"), System.Drawing.Image)
-        Me.picMonster4.Location = New System.Drawing.Point(960, 280)
+        Me.picMonster4.Location = New System.Drawing.Point(1004, 255)
         Me.picMonster4.Name = "picMonster4"
         Me.picMonster4.Size = New System.Drawing.Size(51, 47)
         Me.picMonster4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -166,9 +165,9 @@ Partial Class Dungeon_1
         '
         'picHitbox7
         '
-        Me.picHitbox7.Location = New System.Drawing.Point(891, 165)
+        Me.picHitbox7.Location = New System.Drawing.Point(974, 234)
         Me.picHitbox7.Name = "picHitbox7"
-        Me.picHitbox7.Size = New System.Drawing.Size(194, 159)
+        Me.picHitbox7.Size = New System.Drawing.Size(111, 90)
         Me.picHitbox7.TabIndex = 76
         Me.picHitbox7.TabStop = False
         Me.picHitbox7.Visible = False
@@ -177,7 +176,7 @@ Partial Class Dungeon_1
         '
         Me.picMonster2.Cursor = System.Windows.Forms.Cursors.Cross
         Me.picMonster2.Image = CType(resources.GetObject("picMonster2.Image"), System.Drawing.Image)
-        Me.picMonster2.Location = New System.Drawing.Point(941, 491)
+        Me.picMonster2.Location = New System.Drawing.Point(988, 523)
         Me.picMonster2.Name = "picMonster2"
         Me.picMonster2.Size = New System.Drawing.Size(51, 47)
         Me.picMonster2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -186,9 +185,9 @@ Partial Class Dungeon_1
         '
         'picHitbox6
         '
-        Me.picHitbox6.Location = New System.Drawing.Point(877, 438)
+        Me.picHitbox6.Location = New System.Drawing.Point(957, 491)
         Me.picHitbox6.Name = "picHitbox6"
-        Me.picHitbox6.Size = New System.Drawing.Size(194, 159)
+        Me.picHitbox6.Size = New System.Drawing.Size(114, 106)
         Me.picHitbox6.TabIndex = 75
         Me.picHitbox6.TabStop = False
         Me.picHitbox6.Visible = False
@@ -197,7 +196,7 @@ Partial Class Dungeon_1
         '
         Me.picMonster3.Cursor = System.Windows.Forms.Cursors.Cross
         Me.picMonster3.Image = CType(resources.GetObject("picMonster3.Image"), System.Drawing.Image)
-        Me.picMonster3.Location = New System.Drawing.Point(597, 414)
+        Me.picMonster3.Location = New System.Drawing.Point(585, 414)
         Me.picMonster3.Name = "picMonster3"
         Me.picMonster3.Size = New System.Drawing.Size(51, 47)
         Me.picMonster3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -206,9 +205,9 @@ Partial Class Dungeon_1
         '
         'picHitbox3
         '
-        Me.picHitbox3.Location = New System.Drawing.Point(526, 357)
+        Me.picHitbox3.Location = New System.Drawing.Point(550, 382)
         Me.picHitbox3.Name = "picHitbox3"
-        Me.picHitbox3.Size = New System.Drawing.Size(194, 159)
+        Me.picHitbox3.Size = New System.Drawing.Size(123, 117)
         Me.picHitbox3.TabIndex = 74
         Me.picHitbox3.TabStop = False
         Me.picHitbox3.Visible = False
@@ -217,7 +216,7 @@ Partial Class Dungeon_1
         '
         Me.picMonster10.Cursor = System.Windows.Forms.Cursors.Cross
         Me.picMonster10.Image = CType(resources.GetObject("picMonster10.Image"), System.Drawing.Image)
-        Me.picMonster10.Location = New System.Drawing.Point(212, 211)
+        Me.picMonster10.Location = New System.Drawing.Point(206, 211)
         Me.picMonster10.Name = "picMonster10"
         Me.picMonster10.Size = New System.Drawing.Size(51, 47)
         Me.picMonster10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -226,9 +225,9 @@ Partial Class Dungeon_1
         '
         'picHitbox8
         '
-        Me.picHitbox8.Location = New System.Drawing.Point(151, 165)
+        Me.picHitbox8.Location = New System.Drawing.Point(165, 183)
         Me.picHitbox8.Name = "picHitbox8"
-        Me.picHitbox8.Size = New System.Drawing.Size(194, 159)
+        Me.picHitbox8.Size = New System.Drawing.Size(134, 103)
         Me.picHitbox8.TabIndex = 73
         Me.picHitbox8.TabStop = False
         Me.picHitbox8.Visible = False
@@ -274,26 +273,16 @@ Partial Class Dungeon_1
         Me.playerDown.TabIndex = 39
         Me.playerDown.TabStop = False
         '
-        'PictureBox4
+        'PicHelpMe
         '
-        Me.PictureBox4.Image = CType(resources.GetObject("PictureBox4.Image"), System.Drawing.Image)
-        Me.PictureBox4.Location = New System.Drawing.Point(708, 58)
-        Me.PictureBox4.Name = "PictureBox4"
-        Me.PictureBox4.Size = New System.Drawing.Size(45, 24)
-        Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox4.TabIndex = 32
-        Me.PictureBox4.TabStop = False
-        '
-        'PictureBox3
-        '
-        Me.PictureBox3.BackColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.PictureBox3.Image = CType(resources.GetObject("PictureBox3.Image"), System.Drawing.Image)
-        Me.PictureBox3.Location = New System.Drawing.Point(877, 333)
-        Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(55, 99)
-        Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox3.TabIndex = 31
-        Me.PictureBox3.TabStop = False
+        Me.PicHelpMe.BackColor = System.Drawing.SystemColors.Window
+        Me.PicHelpMe.Image = CType(resources.GetObject("PicHelpMe.Image"), System.Drawing.Image)
+        Me.PicHelpMe.Location = New System.Drawing.Point(666, 24)
+        Me.PicHelpMe.Name = "PicHelpMe"
+        Me.PicHelpMe.Size = New System.Drawing.Size(76, 47)
+        Me.PicHelpMe.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PicHelpMe.TabIndex = 32
+        Me.PicHelpMe.TabStop = False
         '
         'obsticle17
         '
@@ -514,6 +503,9 @@ Partial Class Dungeon_1
         Me.obsKey.TabStop = False
         Me.obsKey.Visible = False
         '
+        'Timer7
+        '
+        '
         'Dungeon_1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -534,8 +526,7 @@ Partial Class Dungeon_1
         Me.Controls.Add(Me.playerRight)
         Me.Controls.Add(Me.playerLeft)
         Me.Controls.Add(Me.playerDown)
-        Me.Controls.Add(Me.PictureBox4)
-        Me.Controls.Add(Me.PictureBox3)
+        Me.Controls.Add(Me.PicHelpMe)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.obsticle17)
         Me.Controls.Add(Me.obsticle16)
@@ -576,8 +567,7 @@ Partial Class Dungeon_1
         CType(Me.playerRight, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.playerLeft, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.playerDown, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PicHelpMe, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.obsticle17, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.obsticle16, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.obsticle18, System.ComponentModel.ISupportInitialize).EndInit()
@@ -634,8 +624,7 @@ Partial Class Dungeon_1
     Friend WithEvents picMonster3 As System.Windows.Forms.PictureBox
     Friend WithEvents picMonster4 As System.Windows.Forms.PictureBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents PictureBox3 As System.Windows.Forms.PictureBox
-    Friend WithEvents PictureBox4 As System.Windows.Forms.PictureBox
+    Friend WithEvents PicHelpMe As System.Windows.Forms.PictureBox
     Friend WithEvents playerDown As System.Windows.Forms.PictureBox
     Friend WithEvents playerLeft As System.Windows.Forms.PictureBox
     Friend WithEvents playerRight As System.Windows.Forms.PictureBox
@@ -652,5 +641,6 @@ Partial Class Dungeon_1
     Friend WithEvents Timer6 As System.Windows.Forms.Timer
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents obsKey As System.Windows.Forms.PictureBox
+    Friend WithEvents Timer7 As System.Windows.Forms.Timer
 
 End Class
