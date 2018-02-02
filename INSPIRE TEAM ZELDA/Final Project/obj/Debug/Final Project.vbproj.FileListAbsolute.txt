@@ -77,3 +77,6 @@ C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj
 C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Tutorial.resources
 C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
 C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.exe
+C:\Users\rc131187\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\rc131187\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.xml
+C:\Users\rc131187\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.pdb
