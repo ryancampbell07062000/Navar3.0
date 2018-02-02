@@ -63,3 +63,17 @@ Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\De
 Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Resources.resources
 Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Tutorial.resources
 Q:\_eDesk\Brosius\Programming\Zelda Team\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.xml
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.pdb
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.pdb
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.xml
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Dungeon_Up.resources
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Final_Boss.resources
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Dungeon_1.resources
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.MenuZel.resources
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final_Project.Tutorial.resources
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.exe
