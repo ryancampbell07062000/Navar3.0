@@ -42,6 +42,7 @@
         Tutorial.ShowDialog()
     End Sub
     Private Sub btnHard_Click(sender As Object, e As EventArgs) Handles btnHard.Click
+        My.Computer.Audio.Play(My.Resources.Hero_Of_Inspiration_Medley_1_, AudioPlayMode.BackgroundLoop)
         Tutorial.Timer1.Interval = 50
         Tutorial.Timer2.Interval = 50
         Tutorial.Timer3.Interval = 50
@@ -60,6 +61,6 @@
         '    My.Computer.Audio.Play(My.Resources.Title_Theme, AudioPlayMode.BackgroundLoop)
     End Sub
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        My.Computer.Audio.Play(My.Resources.Hero_Of_Inspiration_Medley_1_, AudioPlayMode.BackgroundLoop)
+        '  My.Computer.Audio.Play(My.Resources.Hero_Of_Inspiration_Medley_1_, AudioPlayMode.BackgroundLoop)
     End Sub
 End Class
